@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\bin\Debug\net6.0-windows\FullApp1.Core.deps.json
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\bin\Debug\net6.0-windows\FullApp1.Core.dll
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\bin\Debug\net6.0-windows\FullApp1.Core.pdb
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.dll
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\refint\FullApp1.Core.dll
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\FullApp1.Core.pdb
+C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\FullApp1.Core\obj\Debug\net6.0-windows\ref\FullApp1.Core.dll
