@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CoBWDWGcxQBWpZfDf0QHe8MWt6JWaF2m+B/x46UUexdss9EAKKEWQJPAfGzp3+jgOORqTl2+3xJT9zxH+j6FNw==",
+  "dgSpecHash": "bZdhBinAu8GQNfdgLztrTYvF8jPzi7dD+4ZabaWZHyuWJ0QyZyxf1r7jkf/L3rRlINKc0E9HKd/S/UrWpYFGlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",

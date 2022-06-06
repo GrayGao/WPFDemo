@@ -1,5 +1,7 @@
 ﻿//using ModuleA;
 //using ModuleB;
+using ModuleA;
+using ModuleB;
 using Prism.DryIoc;
 using Prism.Ioc;
 using Prism.Modularity;
@@ -33,16 +35,16 @@ namespace PrismDemo
             containerRegistry.RegisterForNavigation<ViewC>();
         }
 
-        //protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
-        //{
-        //    moduleCatalog.AddModule<ModuleAProfile>();
-        //    moduleCatalog.AddModule<ModuleBProfile>();
-        //    base.ConfigureModuleCatalog(moduleCatalog);
-        //}
-
-        protected override IModuleCatalog CreateModuleCatalog()
+        protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
         {
-            return new DirectoryModuleCatalog() { ModulePath = @".\Modules" };
+            moduleCatalog.AddModule<ModuleAProfile>();
+            moduleCatalog.AddModule<ModuleBProfile>();
+            base.ConfigureModuleCatalog(moduleCatalog);
         }
+
+        //protected override IModuleCatalog CreateModuleCatalog()
+        //{
+        //    return new DirectoryModuleCatalog() { ModulePath = @".\Modules" };
+        //}
     }
 }

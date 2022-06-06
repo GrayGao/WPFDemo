@@ -44,6 +44,12 @@
                 Command="{Binding OpenCommand}"
                 CommandParameter="ViewBB"
                 Content="打开模板BB" />
+
+            <Button
+                Margin="5"
+                Command="{Binding BackCommand}"
+                CommandParameter="ViewBB"
+                Content="返回上一步" />
         </StackPanel>
 
         <!--<ContentControl Grid.Row="1" Content="{Binding Body}" />-->

@@ -899,11 +899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\ModuleB\\ModuleB.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\ModuleB\\ModuleB.csproj",
       "projectName": "ModuleB",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\ModuleB\\ModuleB.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\ModuleB\\ModuleB.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\ModuleB\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\ModuleB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

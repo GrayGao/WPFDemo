@@ -13,8 +13,12 @@ namespace PrismDemo.ViewModels
     public class MainViewModel : BindableBase
     {
         private readonly IRegionManager regionManager;
+        //导航日志
+        private IRegionNavigationJournal journal;
 
         public DelegateCommand<string> OpenCommand { get; private set; }
+        public DelegateCommand BackCommand { get; private set; }
+        
         public MainViewModel()
         {
             OpenCommand = new DelegateCommand<string>(Open);
@@ -23,7 +27,14 @@ namespace PrismDemo.ViewModels
         public MainViewModel(IRegionManager regionManager)
         {
             OpenCommand = new DelegateCommand<string>(Open);
+            BackCommand = new DelegateCommand(Back);
             this.regionManager = regionManager;
+        }
+
+        private void Back()
+        {
+            if (journal.CanGoBack)
+                journal.GoBack();
         }
 
         //private object body;
@@ -39,7 +50,17 @@ namespace PrismDemo.ViewModels
             //首先通过IRegionManager获取到全局定义的可用区域
             //往这个区域动态的去设置内容
             //设置内容得方式通过依赖注入的形式
-            this.regionManager.Regions["ContentRegion"].RequestNavigate(obj);
+            NavigationParameters keys = new NavigationParameters();
+            keys.Add("Title", "Hello");
+
+            this.regionManager.Regions["ContentRegion"].RequestNavigate(obj,
+                callBack => { 
+                    if ((bool)callBack.Result)
+                    {
+                        //导航服务的上下文
+                        journal = callBack.Context.NavigationService.Journal;
+                    }
+                }, keys);
             //switch (obj)
             //{
             //    case "ViewA":

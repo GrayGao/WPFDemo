@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+CbpD2zLg/qZiT9AeGmdsCLfhqqsTcOWaYP3ouUhJ7dcw6b31xISs+5LvbVEcsN/amEhOfDknnrXlcgLdfzICA==",
+  "dgSpecHash": "F+O83uv0JD2P/8IAvcwj3bYtEo1BWvlDvx93Zrz4TMSuS5dAMe4/63n405ebY4BNfLiqLpQ2P2jvR4X9GIAfDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\ModuleA\\ModuleA.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\ModuleA\\ModuleA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

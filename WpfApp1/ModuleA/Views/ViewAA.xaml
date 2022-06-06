@@ -8,7 +8,12 @@
     d:DesignHeight="450"
     d:DesignWidth="800"
     mc:Ignorable="d">
+    <!--
+        自动匹配ViewModel
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+    -->
     <Grid>
-        <TextBlock FontSize="80" Text="我是ModuleA当前的ViewAA" />
+        <TextBlock FontSize="80" Text="{Binding Title}" />
     </Grid>
 </UserControl>

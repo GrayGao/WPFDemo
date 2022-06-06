@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
         "projectName": "FullApp1.Services.Interfaces",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj",
         "projectName": "FullApp1.Services",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj"
               }
             }
           }

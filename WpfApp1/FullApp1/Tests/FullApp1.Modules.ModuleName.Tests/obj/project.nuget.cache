@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/YYhTocpUXyO5bWz/4J3MokBXB2RNHNWiWZF4oA4VCSjr8RNln6KTT4Ot4A6ewXYZEO3/Hxz3Pj+Ggy0jNC9w==",
+  "dgSpecHash": "28kCliOahx2aHXoKHiIkhL5UzT6cWn7tnoA7Cf3QdyV917egYvvBXSov7cZLGux/0FHC9NRzdVYEZ/L/1H+6Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Tests\\FullApp1.Modules.ModuleName.Tests\\FullApp1.Modules.ModuleName.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Tests\\FullApp1.Modules.ModuleName.Tests\\FullApp1.Modules.ModuleName.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

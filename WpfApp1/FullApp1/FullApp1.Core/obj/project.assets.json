@@ -131,11 +131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj",
       "projectName": "FullApp1.Core",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1.Core\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

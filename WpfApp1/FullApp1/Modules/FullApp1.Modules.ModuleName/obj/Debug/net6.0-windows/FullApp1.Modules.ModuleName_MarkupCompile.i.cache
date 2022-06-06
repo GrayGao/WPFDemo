@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\FullApp1\Modules\FullApp1.Modules.ModuleName\obj\Debug\net6.0-windows\
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\FullApp1\Modules\FullApp1.Modules.ModuleName\obj\Debug\net6.0-windows\
 FullApp1.Modules.ModuleName
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 1-255015040
 
 51104998903
-1991420404930
+199159764508
 Views\ViewA.xaml;
 
 False

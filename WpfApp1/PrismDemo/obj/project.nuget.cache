@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXDa/zzp/6Cu+nN7KSjKArmwh8ZZFUESJNQRmYUuB3Pf4I5km+JWK/KI4d/Cnq4Ms1NviEaLzYQ6TCmPpUgSJQ==",
+  "dgSpecHash": "IFZl4U1P/geHNTcZmeUgazEL7tdPBNquxy/RKrQJ1GrrzLaS28QVpgV38zjM7f8C8CbDSN9J7lnpt+ZjOBePng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\PrismDemo\\PrismDemo.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\PrismDemo\\PrismDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

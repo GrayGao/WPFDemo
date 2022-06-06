@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U72tx4m1LQX8FiH7VIkuprN14cJU7ABeppJCZhfflgs0xYA3wS1Yfr79X3OP0AIiMKvIYVx7hHOAb+K0Uc8oLA==",
+  "dgSpecHash": "KJNV3be6FxX4wA3FSSWAci3Za2xS9XbT8XVeMhCHIBZ5MufO+DLWfCcWPwM7BdsRCppg1K56zmqp+sTMu3XyMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

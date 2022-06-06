@@ -980,11 +980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1\\FullApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1\\FullApp1.csproj",
       "projectName": "FullApp1",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1\\FullApp1.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1\\FullApp1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1001,17 +1001,17 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\FullApp1.Core\\FullApp1.Core.csproj"
             },
-            "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Modules\\FullApp1.Modules.ModuleName\\FullApp1.Modules.ModuleName.csproj"
             },
-            "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services.Interfaces\\FullApp1.Services.Interfaces.csproj"
             },
-            "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\WPF\\1day\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\WPFDemo\\WpfApp1\\FullApp1\\Services\\FullApp1.Services\\FullApp1.Services.csproj"
             }
           }
         }

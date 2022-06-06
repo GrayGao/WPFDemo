@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Administrator\Desktop\WPF\1day\WpfApp1\ModuleB\obj\Debug\net6.0-windows\
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleB\obj\Debug\net6.0-windows\
 ModuleB
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 199-1626099650
 Views\ViewBB.xaml;
 
-True
+False
 
