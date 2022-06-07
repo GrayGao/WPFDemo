@@ -32,3 +32,5 @@ C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-win
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-windows\refint\ModuleA.dll
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-windows\ModuleA.pdb
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-windows\ref\ModuleA.dll
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-windows\Views\ViewCC.g.cs
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\ModuleA\obj\Debug\net6.0-windows\Views\ViewCC.baml

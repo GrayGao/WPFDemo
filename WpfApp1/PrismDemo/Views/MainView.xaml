@@ -31,9 +31,9 @@
                 Content="打开模板B" />
             <Button
                 Margin="5"
-                Command="{Binding OpenCommand}"
-                CommandParameter="ViewC"
-                Content="打开模板C" />
+                Command="{Binding ShowCommand}"
+                CommandParameter="ViewCC"
+                Content="弹框ViewCC" />
             <Button
                 Margin="5"
                 Command="{Binding OpenCommand}"

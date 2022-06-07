@@ -68,3 +68,5 @@ C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\bin\Debug\net6.0-w
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\bin\Debug\net6.0-windows\ModuleB.dll
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\bin\Debug\net6.0-windows\ModuleA.pdb
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\bin\Debug\net6.0-windows\ModuleB.pdb
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\obj\Debug\net6.0-windows\Views\ViewD.g.cs
+C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\obj\Debug\net6.0-windows\Views\ViewD.baml

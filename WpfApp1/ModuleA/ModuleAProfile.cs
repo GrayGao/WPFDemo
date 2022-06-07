@@ -19,6 +19,10 @@ namespace ModuleA
 
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
+            //注册弹窗
+            containerRegistry.RegisterDialog<ViewCC, ViewCCViewModel>();
+
+            //注册导航
             containerRegistry.RegisterForNavigation<ViewAA, ViewAAViewModel>();
         }
     }

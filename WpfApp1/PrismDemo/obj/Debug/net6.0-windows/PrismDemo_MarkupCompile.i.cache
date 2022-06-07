@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Administrator\Source\Repos\WPFDemo\WpfApp1\PrismDemo\App.xaml
-4-214011889
+5310690934
 
-9-1539920234
+10-264293532
 201220651251
-Views\MainView.xaml;Views\ViewA.xaml;Views\ViewB.xaml;Views\ViewC.xaml;
+Views\MainView.xaml;Views\ViewA.xaml;Views\ViewB.xaml;Views\ViewC.xaml;Views\ViewD.xaml;
 
-False
+True
 

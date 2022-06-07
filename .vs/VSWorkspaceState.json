@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WpfApp1",
+    "\\WpfApp1\\PrismDemo"
   ],
-  "SelectedNode": "\\C:\\Users\\Administrator\\Source\\Repos\\WPFDemo",
+  "SelectedNode": "\\WpfApp1\\PrismDemo\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
